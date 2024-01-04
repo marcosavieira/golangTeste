@@ -39,4 +39,3 @@ Observações:
 
     Você pode usar qualquer biblioteca externa que julgar necessário.
     Priorize a simplicidade e clareza do código.
-    O tempo estimado para completar este teste é de aproximadamente 2 horas.
